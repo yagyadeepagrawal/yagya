@@ -10,4 +10,6 @@ printf("The sum of the series is:%d",s);
 }
 
 hiii i am yagya deep agrawal
+assigment github
+
 hello world
