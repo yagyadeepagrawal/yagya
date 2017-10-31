@@ -6,5 +6,5 @@ for(i=1;i<=100;i++)
 {
 s=s+i;
 }
-printf("The sum of the series is:%d",s)
+printf("The sum of the series is:%d",s);
 }
